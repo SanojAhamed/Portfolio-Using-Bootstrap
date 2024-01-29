@@ -6,9 +6,9 @@
 
 .banner {
     background-image: url(/images/background.jpg);
-    padding: 210px;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 240px 0;
 }
 
 .skills-padding {
