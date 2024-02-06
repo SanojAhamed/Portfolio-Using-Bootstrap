@@ -14,7 +14,7 @@ Mobile View
 
 
 ## Projects
-Live Demo [https://sanojahamed.netlify.app/](#).
+Live Demo https://boostrapportfolio.netlify.app/
 
 ## License
 
